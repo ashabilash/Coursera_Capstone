@@ -1,3 +1,5 @@
 cred/*
 notebooks/*
 data_files/*
+experiment.ipynb
+.ipynb_checkpoints/*
